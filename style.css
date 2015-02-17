@@ -1,0 +1,43 @@
+body {
+	background-color: #999999;
+}
+
+#container {
+	width: 800px;
+	margin: auto;
+}
+
+#header {
+	background-color:#ffddff;
+}
+
+#menu {
+	background-color:#FFD7dd;
+	height:200px;
+	width:100px;
+	float:left;
+}
+#menu a {
+	font-weight: 900;
+	font-style: italic;
+}
+
+#content {
+	background-color:#EEEEEE;
+	height:200px;
+	width:700px;
+	float:left;
+}
+
+h1 {
+	font-size:20;
+	margin: auto;
+}
+a {
+	font-family: Monospace;
+}
+
+a:link {color:#888888; text-decoration: none;}      /* unvisited link */
+a:visited {color:#888888; text-decoration: none;}  /* visited link */
+a:hover {color:#888888; text-decoration: underline;}  /* mouse over link */
+a:active {color:#888888; text-decoration: underline;}  /* selected link */

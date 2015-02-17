@@ -1,0 +1,5 @@
+0:#:#:MM/DD/YYYY:#:#:TITLE TEMPLATE:#:#:BODY TEMPLATE
+1:#:#:08/08/2011:#:#:Title of the news:#:#:Body of the news
+2:#:#:08/09/2011:#:#:Title of the news 2:#:#:Body of the news 2
+3:#:#:08/09/2011:#:#:Title of the news 3:#:#:Body of the news 3
+4:#:#:08/09/2011:#:#:Title of the news 4:#:#:Body of the news 4
